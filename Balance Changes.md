@@ -7,7 +7,7 @@ The only changes within this Github Repository that have been added are ones tha
 * Angle
 * Damage
 * Position<br/><br/>
-All characters from Mario to Meta Knight have all their changes.<br/><br/>
+All characters from Mario to Meta Knight have all their changes.
 | Fighter          | Move / Attribute                                               | Changes                                                                                                                                                                                      |
 | ---------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | All Fighters     | Air Dodges                                                     | All Air Dodges now start on frames 3, nothing sooner or later.                                                                                                                               |
