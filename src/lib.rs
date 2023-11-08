@@ -37,7 +37,7 @@
     mod gamewatch;
 
 // Brawl
-    //mod metaknight;
+    mod metaknight;
     //mod pit;
     //mod pitb;
     //mod szerosuit;
@@ -140,7 +140,7 @@ pub fn main() {
     gamewatch::install();
 
 // Brawl
-    //metaknight::install();
+    metaknight::install();
     //pit::install();
     //pitb::install();
     //szerosuit::install();
