@@ -1,4 +1,4 @@
-# Intended Changes<br/><br/>
+# Intended Changes
 Most of the changes here are either no in the game yet or are within other files of the game I've edited that are not within this Github Repository yet.<br/><br/>
 | Fighter          | Move / Attribute                                               | Changes                                                                                                                                                                                      |
 | ---------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
