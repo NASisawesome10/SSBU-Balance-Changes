@@ -1,5 +1,14 @@
 # Intended Changes
-Most of the changes here are either not in the game yet or are within other files of the game I've edited that are not within this Github Repository yet. However, all characters from Mario to Meta Knight have almost all their changes.<br/><br/>
+Most of the changes here are either not in the game yet or are within other files of the game I've edited that are not within this Github Repository yet.<br/><br/>
+The only changes within this Github Repository that have been added are ones that effect hitboxes in the following:<br/><br/>
+* BKB (Base Knockback)
+* KBG (Knockback Growth)
+* Active Frames
+* Angle
+* Damage
+* Position
+
+All characters from Mario to Meta Knight have all their changes.<br/><br/>
 | Fighter          | Move / Attribute                                               | Changes                                                                                                                                                                                      |
 | ---------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | All Fighters     | Air Dodges                                                     | All Air Dodges now start on frames 3, nothing sooner or later.                                                                                                                               |
