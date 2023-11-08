@@ -6,8 +6,7 @@ The only changes within this Github Repository that have been added are ones tha
 * Active Frames
 * Angle
 * Damage
-* Position
-
+* Position<br/><br/>
 All characters from Mario to Meta Knight have all their changes.<br/><br/>
 | Fighter          | Move / Attribute                                               | Changes                                                                                                                                                                                      |
 | ---------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
