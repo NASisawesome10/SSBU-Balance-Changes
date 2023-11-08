@@ -1,5 +1,5 @@
 # Intended Changes<br/><br/>
-Most of the changes here are either no in the game yet or are within other files of the game I've edited that are not within this Github Repository yet.
+Most of the changes here are either no in the game yet or are within other files of the game I've edited that are not within this Github Repository yet.<br/><br/>
 | Fighter          | Move / Attribute                                               | Changes                                                                                                                                                                                      |
 | ---------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | All Fighters     | Air Dodges                                                     | All Air Dodges now start on frames 3, nothing sooner or later.                                                                                                                               |
