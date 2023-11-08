@@ -1,6 +1,6 @@
 # Intended Changes
 Most of the changes here are either not in the game yet or are within other files of the game I've edited that are not within this Github Repository yet.<br/><br/>
-The only changes within this Github Repository that have been added are ones that effect hitboxes in the following:<br/><br/>
+The only changes within this Github Repository that have been added are ones that effect hitboxes in the following:
 * BKB (Base Knockback)
 * KBG (Knockback Growth)
 * Active Frames
